@@ -1,8 +1,3 @@
-Hello, It's really nice to have you here 
-
-These are the instructions for the execution of the 3rd problem of interview_questions_v1.pdf file
-=======================================================================================
-
 -   Execution Instruction:
     
     -   Before Execution, Install the dependencies by running the following command on the terminal
